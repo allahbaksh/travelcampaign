@@ -1,0 +1,101 @@
+Rank,Destination,Country,Visitors (millions),Famous For,Local Events and Festivals
+1,Hong Kong,Hong Kong,23.7,Skyscrapers / Harbor Views / Dim Sum,Bun Festival / Chinese New Year
+2,Singapore,Singapore,21.3,Modern Cityscape / Gardens by the Bay / Shopping,Chinese New Year / Deepavali
+3,Bangkok,Thailand,15.8,Temples / Street Food / Nightlife,Songkran / Loy Krathong
+4,London,UK,15.5,British Landmarks / Theaters / History,Notting Hill Carnival / Wimbledon Championships
+5,Macau,Macau,13.4,Casinos / Entertainment / Portuguese Heritage,Macau Grand Prix / Chinese New Year
+6,Kuala Lumpur,Malaysia,13.3,Petronas Towers / Cultural Diversity / Street Food,Thaipusam / Hari Raya Puasa
+7,Shenzhen,China,12.1,Technology / Modern Architecture / Shopping,Lantern Festival / Double Ninth Festival
+8,New York City,USA,11.6,Times Square / Central Park / Cultural Diversity,New Year's Eve in Times Square / Thanksgiving Parade
+9,Antalya,Turkey,10.3,Mediterranean Coast / Beach Resorts / History,Antalya International Film Festival / Aspendos Opera and Ballet Festival
+10,Paris,France,9.8,Eiffel Tower / Louvre Museum / Romance,Bastille Day / Paris Jazz Festival
+11,Istanbul,Turkey,8.8,Hagia Sophia / Blue Mosque / Bosphorus,Istanbul International Film Festival / Istanbul Music Festival
+12,Rome,Italy,8.7,Colosseum / Vatican City / Ancient History,Carnival of Rome / Estate Romana Festival
+13,Dubai,UAE,8,Burj Khalifa / Luxury Shopping / Desert Safari,Dubai Shopping Festival / Dubai World Cup
+14,Guangzhou,China,7.9,Canton Tower / Pearl River / Modern Architecture,Canton Fair / Mid-Autumn Festival
+15,Phuket,Thailand,7.2,Beaches / Island Paradise / Water Activities,Vegetarian Festival / Loy Krathong
+16,Mecca,Saudi Arabia,6.9,Islamic Pilgrimage / Grand Mosque / History,Hajj / Ramadan
+17,Pattaya,Thailand,6.6,Beach Resorts / Nightlife / Water Activities,Pattaya International Music Festival / Songkran
+18,Taipei City,Taiwan,6.6,Temples / Street Food / Night Markets,Taipei Lantern Festival / Double Tenth Day
+19,Prague,Czech Republic,6.5,Prague Castle / Charles Bridge / Old Town Square,Prague Spring International Music Festival / Prague International Film Festival
+20,Shanghai,China,6.5,The Bund / Oriental Pearl Tower / Modern City,Shanghai International Film Festival / Chinese New Year
+21,Las Vegas,USA,6.3,Gambling / Entertainment / Nightlife,New Year's Eve on the Las Vegas Strip / Electric Daisy Carnival
+22,Miami,USA,6,Beaches / Art Deco Historic District / Nightlife,Art Basel Miami Beach / Ultra Music Festival
+23,Barcelona,Spain,5.5,Sagrada Familia / Park Guell / Gaudi Architecture,La Mercè Festival / Barcelona Carnival
+24,Moscow,Russia,5,Red Square / Kremlin / Russian Culture,Moscow International Film Festival / Victory Day Parade
+25,Beijing,China,5,Great Wall / Forbidden City / Chinese Heritage,Chinese New Year / Mid-Autumn Festival
+26,Los Angeles,USA,5,Hollywood / Universal Studios / Beaches,Academy Awards (Oscars) / LA Pride Festival
+27,Budapest,Hungary,4.8,Buda Castle / Parliament / Thermal Baths,Budapest International Documentary Festival / Budapest Wine Festival
+28,Vienna,Austria,4.3,Historic Palaces / Classical Music / Coffeehouses,Vienna Opera Ball / Vienna International Film Festival
+29,Amsterdam,Netherlands,4.3,Canals / Van Gogh Museum / Red-Light District,King's Day (Koningsdag) / Amsterdam Dance Event (ADE)
+30,Sofia,Bulgaria,4.1,Alexander Nevsky Cathedral / Vitosha Mountain / History,Sofia International Film Festival / St. Sofia Day
+31,Madrid,Spain,4.1,Royal Palace / Prado Museum / Tapas,San Isidro Festival / Madrid Pride
+32,Orlando,USA,4.1,Walt Disney World / Universal Orlando / Theme Parks,Epcot International Food & Wine Festival / Orlando Film Festival
+33,Ho Chi Minh City,Vietnam,3.9,War Remnants Museum / Street Food / History,Tet Festival / Mid-Autumn Festival
+34,Lima,Peru,3.8,Machu Picchu / Historic Center / Coastal Cuisine,Inti Raymi / Mistura Food Festival
+35,Berlin,Germany,3.8,Brandenburg Gate / Berlin Wall / Cultural Scene,Berlin International Film Festival (Berlinale) / Karneval der Kulturen
+36,Tokyo,Japan,3.7,Shibuya Crossing / Harajuku Fashion / Sushi,Sumida River Fireworks Festival / Kanda Matsuri
+37,Warsaw,Poland,3.7,Old Town / Royal Castle / Polish History,Warsaw International Film Festival / Warsaw Beer Festival
+38,Chennai,India,3.5,Marina Beach / Kapaleeshwarar Temple / South Indian Cuisine,Pongal / Chennai International Film Festival
+39,Cairo,Egypt,3.5,Pyramids / Sphinx / Ancient History,Cairo International Film Festival / Shem el Nessim
+40,Nairobi,Kenya,3.4,Nairobi National Park / Giraffe Centre / Maasai Markets,Kenya International Film Festival / Koroga Festival
+41,Hangzhou,China,3.4,West Lake / Lingyin Temple / Tea Culture,West Lake International Expo / G20 Hangzhou Summit
+42,Milan,Italy,3.3,Duomo di Milano / Leonardo da Vinci's The Last Supper / Fashion,Milan Fashion Week / La Scala Opening Night
+43,San Francisco,USA,3.2,Golden Gate Bridge / Alcatraz / Tech Innovation,San Francisco International Film Festival / Outside Lands Music and Arts Festival
+44,Buenos Aires,Argentina,3.2,Tango / Steak / Historic Neighborhoods,Carnaval Porteño / Buenos Aires International Independent Film Festival
+45,Venice,Italy,3.2,Canals / St. Mark's Square / Art,Venice Carnival / Venice Film Festival
+46,Mexico City,Mexico,3.1,Palacio de Bellas Artes / Frida Kahlo Museum / Street Food,Day of the Dead (Dia de los Muertos) / International Contemporary Film Festival
+47,Dublin,Ireland,3.1,Guinness Storehouse / Trinity College / Pub Culture,St. Patrick's Day / Dublin International Film Festival
+48,Seoul,South Korea,3,Gyeongbokgung Palace / Bukchon Hanok Village / K-Pop,Seoul International Fireworks Festival / Seoul Lantern Festival
+49,Mugla,Turkey,3,Marmaris / Bodrum / Turquoise Coast,Marmaris Yacht Charter Show / Bodrum International Ballet Festival
+50,Mumbai,India,3,Gateway of India / Bollywood / Street Food,Ganesh Chaturthi / Kala Ghoda Arts Festival
+51,Denpasar,Indonesia,3,Beaches / Water Temples / Balinese Culture,Bali Arts Festival / Sanur Village Festival
+52,Delhi,India,2.9,Red Fort / Taj Mahal / Street Markets,Diwali / International Mango Festival
+53,Toronto,Canada,2.8,CN Tower / Royal Ontario Museum / Multiculturalism,Toronto International Film Festival / Caribana
+54,Zhuhai,China,2.7,Fisher Girl Statue / Hengqin Island / Beaches,Zhuhai Airshow / Hengqin International Tennis Center
+55,St Petersburg,Russia,2.7,Hermitage Museum / Peter and Paul Fortress / Russian Culture,White Nights Festival / St. Petersburg International Film Festival
+56,Burgas,Bulgaria,2.7,Sea Gardens / Sunny Beach / Archaeological Sites,Spirit of Burgas / Burgas International Film Festival
+57,Sydney,Australia,2.7,Sydney Opera House / Harbour Bridge / Beaches,Sydney Festival / Vivid Sydney
+58,Djerba,Tunisia,2.6,Beaches / Ghriba Synagogue / Traditional Villages,Djerba Jewish Culture Festival / Djerba Ulysses Festival
+59,Munich,Germany,2.6,Oktoberfest / Nymphenburg Palace / Beer Gardens,Oktoberfest / Tollwood Winter Festival
+60,Johannesburg,South Africa,2.6,Soweto / Apartheid Museum / Gold Reef City,National Arts Festival / Johannesburg International Mozart Festival
+61,Cancun,Mexico,2.6,Beaches / Mayan Ruins / Nightlife,Cancun Carnival / Cancun International Film Festival
+62,Edirne,Turkey,2.6,Selimiye Mosque / Edirne Palace / Ottoman Heritage,Kirkpinar Oil Wrestling Festival / Edirne Kakava Festival
+63,Suzhou,China,2.5,Gardens / Canals / Suzhou Museum,Suzhou International Silk Festival / Pingjiang Road Music Festival
+64,Bucharest,Romania,2.4,Palace of the Parliament / Village Museum / Nightlife,George Enescu Festival / Bucharest International Film Festival
+65,Punta Cana,Dominican Republic,2.4,Beaches / Resorts / Water Sports,Punta Cana Food & Wine Festival / Dominican Republic Jazz Festival
+66,Agra,India,2.4,Taj Mahal / Agra Fort / Mughal History,Taj Mahotsav / Sufi Festival
+67,Jaipur,India,2.3,Hawa Mahal / Amber Fort / Rajasthani Culture,Jaipur Literature Festival / Jaipur International Film Festival
+68,Brussels,Belgium,2.3,Grand Place / Atomium / Chocolate,Brussels Jazz Marathon / Flower Carpet Festival
+69,Nice,France,2.2,Promenade des Anglais / Old Town / French Riviera,Nice Carnival / Jazz à Juan
+70,Chiang Mai,Thailand,2.2,Temples / Night Markets / Thai Cuisine,Yi Peng Lantern Festival / Chiang Mai Flower Festival
+71,Sharm el-Sheikh,Egypt,2.2,Red Sea / Snorkeling / Diving,Sharm el-Sheikh International Theatre Festival / Sinai Liberation Day
+72,Lisbon,Portugal,2.2,Belem Tower / Fado Music / Pastries,Lisbon International Documentary Film Festival / Lisbon Fish and Flavours
+73,East Province,Saudi Arabia,2.2,Dhahran / Al Khobar / Corniche,Al Janadriyah Heritage and Cultural Festival / Saudi Film Festival
+74,Marrakech,Morocco,2.1,Medina / Palaces / Markets / Moroccan Cuisine,Marrakech International Film Festival / Marrakech Popular Arts Festival
+75,Jakarta,Indonesia,2.1,Monas / Taman Mini Indonesia / Shopping,Jakarta International Film Festival / Jakarta Fashion Week
+76,Manama,Bahrain,2,Bahrain Fort / Al Fateh Grand Mosque / Souks,Bahrain International Music Festival / Bahrain Food Festival
+77,Hanoi,Vietnam,2,Hoan Kiem Lake / Old Quarter / Street Food,Tet Nguyen Dan (Lunar New Year) / Hanoi International Film Festival
+78,Honolulu,USA,2,Waikiki Beach / Diamond Head / Surfing,Honolulu Festival / Aloha Festivals
+79,Manila,Philippines,2,Intramuros / Rizal Park / Shopping,Sinulog Festival / Manila International Film Festival
+80,Guilin,China,2,Li River / Karst Mountains / Scenic Landscapes,Guilin International Tourism Festival / Guilin Liangjiang International Hot Air Balloon Festival
+81,Auckland,New Zealand,2,Sky Tower / Waiheke Island / Maori Culture,Auckland Arts Festival / New Zealand International Film Festival
+82,Siem Reap,Cambodia,1.9,Angkor Wat / Temples / Khmer Culture,Angkor Sangkran (Khmer New Year) / Water Festival
+83,Sousse,Tunisia,1.9,Medina / Beaches / History,Sousse International Festival / Sidi Bou Said Festival
+84,Amman,Jordan,1.9,Roman Theater / Amman Citadel / Petra Day Trip,Amman International Film Festival / Jerash Festival
+85,Vancouver,Canada,1.9,Stanley Park / Granville Island / Outdoor Activities,Vancouver International Film Festival / Celebration of Light
+86,Abu Dhabi,UAE,1.9,Sheikh Zayed Grand Mosque / Louvre Abu Dhabi / Luxury,Qasr Al Hosn Festival / Abu Dhabi Art
+87,Kiev,Ukraine,1.9,Saint Sophia's Cathedral / Lavra Monastery / Chernobyl Tours,Kiev International Film Festival / White Nights International Film Festival
+88,Doha,Qatar,1.9,The Pearl-Qatar / Souq Waqif / Desert Adventures,Qatar National Day / Doha Tribeca Film Festival
+89,Florence,Italy,1.8,Duomo di Firenze / Uffizi Gallery / Renaissance Art,Florence International Film Festival / F-Light - Florence Light Festival
+90,Rio de Janeiro,Brazil,1.8,Christ the Redeemer / Copacabana Beach / Samba,Carnival / Rock in Rio Festival
+91,Melbourne,Australia,1.8,Federation Square / Great Ocean Road / Cultural Events,Melbourne International Film Festival / Melbourne Food and Wine Festival
+92,Washington D.C.,USA,1.7,National Mall / Smithsonian Museums / History,National Cherry Blossom Festival / DC Shorts Film Festival
+93,Riyadh,Saudi Arabia,1.7,Kingdom Centre Tower / Masmak Fortress / Modernity,Riyadh International Book Fair / Saudi Film Days
+94,Christchurch,New Zealand,1.7,Christchurch Botanic Gardens / Adventure Activities / Wildlife,New Zealand International Film Festival / World Buskers Festival
+95,Frankfurt,Germany,1.7,Romer / St Bartholomew's Cathedral / Finance Hub,Frankfurt Book Fair / Museum Embankment Festival
+96,Baku,Azerbaijan,1.7,Flame Towers / Maiden Tower / Caspian Sea,Baku International Jazz Festival / Baku International Film Festival
+97,Sao Paulo,Brazil,1.7,Paulista Avenue / Ibirapuera Park / Cultural Diversity,Sao Paulo International Film Festival / Sao Paulo Fashion Week
+98,Harare,Zimbabwe,1.7,National Gallery of Zimbabwe / Harare Gardens / African Culture,HIFA (Harare International Festival of the Arts) / Harare Jazz Festival
+99,Kolkata,India,1.6,Victoria Memorial / Howrah Bridge / Cultural Heritage,Durga Puja / Kolkata International Film Festival
+100,Nanjing,China,1.6,Sun Yat-sen Mausoleum / Nanjing City Wall / History,Nanjing International Plum Blossom Festival / Nanjing Jazz Festival
